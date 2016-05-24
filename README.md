@@ -1,6 +1,5 @@
 # JavaPractice
 
-
 import java.io.FileInputStream;
 
 import javax.xml.parsers.DocumentBuilder;
